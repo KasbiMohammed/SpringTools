@@ -1,0 +1,8 @@
+![swagger1](https://github.com/KasbiMohammed/SpringTools/assets/147922729/58f147af-65f8-42d5-95aa-57025daccbeb)
+![swagger2](https://github.com/KasbiMohammed/SpringTools/assets/147922729/1f71b82a-aad9-4c0f-9a46-41163dcc2c93)
+![students](https://github.com/KasbiMohammed/SpringTools/assets/147922729/742ea288-6735-4fa3-9672-0bdde5080323)
+![students2](https://github.com/KasbiMohammed/SpringTools/assets/147922729/85c85d27-5422-4784-8b09-ea75ff64986e)
+![roles](https://github.com/KasbiMohammed/SpringTools/assets/147922729/4d367982-f8d3-40e5-a2df-9d1433cad138)
+![filieres3](https://github.com/KasbiMohammed/SpringTools/assets/147922729/15b72323-6c7d-4e32-bd4e-5ca430419d80)
+![filieres2](https://github.com/KasbiMohammed/SpringTools/assets/147922729/667f337d-dd4c-4379-9969-affc46b02ca3)
+![filieres](https://github.com/KasbiMohammed/SpringTools/assets/147922729/62d9b544-184e-4695-9002-fdffcd512a35)
